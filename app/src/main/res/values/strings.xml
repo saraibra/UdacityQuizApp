@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="attempToAnswer">Attempt to answer this questions</string>
+    <string name="question_1">1. Which company developed android?</string>
+    <string name="question_2">2. Which company bought android? </string>
+    <string name="question_3">3. What is android? </string>
+    <string name="question_4">4. Which operating system that can
+        \nbe used for android application
+        \ndevelopment?</string>
+    <string name="question_5">5.What is fragment and how it differs
+        \nfrom an activity?</string>
+
+    <string name="a_apple">A. Apple</string>
+    <string name="b_google">B. Google</string>
+    <string name="c_android_inc">C. Android Inc.</string>
+    <string name="d_nokia">D. Nokia</string>
+
+    <string name="result">Result</string>
+    <string name="b_no_Company">B. No company</string>
+    <string name="C_Nokia">C. Nokia</string>
+    <string name="d_Google">D. Google</string>
+    <string name="a_desktopOperatingSystem">A. Desktop Operating System</string>
+    <string name="b_ProgrammingLanguage">B. Programming Language</string>
+    <string name="c_MobileOperatingSystem">C. Mobile Operating System</string>
+    <string name="d_Database">D. Database</string>
+    <string name="a_Windows">A. Windows</string>
+    <string name="b_Mac">B. Mac</string>
+    <string name="c_Linux">C. Linux</string>
+    <string name="d_Contiki">D. Contiki</string>
+    <string name="writeYourAnswer">Write your answer</string>
+    <string name="submit">Submit</string>
+    <string name="true1">True</string>
+    <string name="false1">False</string>
+    <string name="q5_answer">A fragment is a reusable part of an activity which can be combined with other fragments in a single activity.</string>
+    <string name="androidQuiz">Android quiz</string>
+</resources>
